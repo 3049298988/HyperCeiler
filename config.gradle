@@ -15,7 +15,7 @@
 
 ext {
     BuildTypes = "debug"
-    LibraryPath = "../library/"
+    LibraryPath = "../../app/library/"
 
     //公共的(系统的)
     roots = [
